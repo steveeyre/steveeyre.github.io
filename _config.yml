@@ -1,12 +1,12 @@
-title      : scott.cgi
+title      : 洛书
 lang       : zh
-description: 编程写作 / 迭代认知 / 执行计划
-copyright  : © 2018 - 2021 scott.cgi All Rights Reserved
+description: 赛博空间生存手册
+copyright  : © 2021 Steveeyre All Rights Reserved
 
 nav:
- - name: 中文
+ - name: 首页
    link: /
- - name: 编程人生
-   link: /code-life/
- - name: En
-   link: /about/
+ - name: Obsidian
+   link: /Obsidian
+ - name: Notes
+   link: /Notes
